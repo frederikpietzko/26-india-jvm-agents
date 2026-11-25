@@ -1,0 +1,71 @@
+---
+theme: kotlin
+title: Java is Coming for Python’s Lunch - The Rise of JVM AI Agents
+class: text-center
+drawings:
+  persist: false
+transition: view-transition
+routerMode: hash
+comark: true
+duration: 25min
+highlighter: shiki
+kodee:
+  variant: welcome
+  size: large
+  position: corner
+canvasWidth: 1440
+aspectRatio: 16/9
+colorSchema: both
+themeConfig:
+  kodee: wave
+---
+
+# Java is Coming for Python’s Lunch
+
+## The Rise of JVM AI Agents
+
+Frederik Pietzko - WeAreDevelopers Conference India 2026
+
+---
+src: ./pages/01-introduction.md
+---
+
+---
+src: ./pages/02-demo.md
+---
+
+---
+src: ./pages/03-spring-ai.md
+---
+
+---
+src: ./pages/04-embabel.md
+---
+
+---
+src: ./pages/05-koog.md
+---
+
+---
+layout: intro
+class: section-intro qa-slide
+kodee:
+  variant: wave
+  size: small
+  position: corner
+---
+
+# Q&A
+
+<div class="qa-qr-row">
+  <div class="qa-qr-block">
+    <img class="qa-qr" src="/assets/qrcode.svg" alt="QR code to the slides" />
+    <p class="qa-qr-caption">Slides &amp; code</p>
+  </div>
+</div>
+
+<!--
+- Slides + demo code
+  - Spring AI, Embabel, Koog variants
+-->
+
